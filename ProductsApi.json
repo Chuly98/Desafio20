@@ -1,0 +1,90 @@
+[
+  {
+      "id": 1,
+      "title": "zapatillas nike-black",
+      "thumbnail": "nike-black.jpg",
+      "descripcion": "zapatillas running",
+      "code": "************",
+      "stock": 5,
+      "price": 5.2500,
+      "status": true,
+      "category": "Runing"
+  },
+  {
+      "id": 2,
+      "title": "zapatillas adidas-blancas",
+      "thumbnail": "adidas-blancas.jpg",
+      "descripcion": "Descripción del Zapatillas 2",
+      "code": "************",
+      "stock": 5,
+      "price": 7.543,
+      "status": true,
+      "category": "Desportivas"
+  },
+  {
+      "id": 3,
+      "title": "zapatillas newbalance-new",
+      "thumbnail": "newbalance-new.jpg",
+      "descripcion": "Descripción del Zapatillas 3",
+      "code": "************",
+      "stock": 15,
+      "price": 6.420,
+      "status": true,
+      "category": "Unisex"
+  },
+  {
+      "id": 4,
+      "title": "Zapatillas 4",
+      "thumbnail": "imagen4.jpg",
+      "descripcion": "Descripción del Zapatillas 4",
+      "code": "************",
+      "stock": 8,
+      "price": 2454.99,
+      "status": true,
+      "category": "Categoría 2"
+  },
+  {
+      "id": 5,
+      "title": "Zapatillas 5",
+      "thumbnail": "imagen3.jpg",
+      "descripcion": "Descripción del Zapatillas 3",
+      "code": "************",
+      "stock": 15,
+      "price": 1489.99,
+      "status": true,
+      "category": "Categoría 1"
+  },
+  {
+      "id": 6,
+      "title": "Zapatillas 6",
+      "thumbnail": "imagen3.jpg",
+      "descripcion": "Descripción del Zapatillas 3",
+      "code": "************",
+      "stock": 15,
+      "price": 1499.99,
+      "status": true,
+      "category": "Categoría 1"
+  },
+  {
+      "id": 7,
+      "title": "zapatillas deportivas",
+      "thumbnail": "imagen2.jpg",
+      "descripcion": "Descripción del Zapatillas 2",
+      "code": "************",
+      "stock": 5,
+      "price": 29454.99,
+      "status": true,
+      "category": "Unisex"
+  },
+  {
+      "title": "zapatillas deportivas",
+      "thumbnail": "imagen2.jpg",
+      "descripcion": "Descripción del Zapatillas 2",
+      "code": "************",
+      "stock": 5,
+      "price": 29323.99,
+      "status": true,
+      "category": "Runing",
+      "id": 8
+  }
+]
